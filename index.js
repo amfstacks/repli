@@ -1,4 +1,3 @@
-// console.log('hi');
 let maxrange = 2;
 let gainedPoint = 0;
 const userName = prompt(' Enter Your username ');
